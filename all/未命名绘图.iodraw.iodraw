@@ -566,94 +566,94 @@
             <mxPoint x="1180" y="-411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-133" value="生产记录详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-133" value="生产记录详情" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1812" y="-426" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-134" value="&lt;span style=&quot;font-size:12.0pt;line-height:125%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;原材料实际耗损率&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-134" value="&lt;span style=&quot;font-size: 20px; line-height: 125%;&quot;&gt;原材料实际耗损率&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1672" y="-586" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-135" value="&lt;span style=&quot;font-size:12.0pt;line-height:125%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;原材料标准耗损率&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-135" value="&lt;span style=&quot;font-size: 20px; line-height: 125%;&quot;&gt;原材料标准耗损率&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1630" y="-496" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-136" value="主键生产记录详情ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-136" value="主键生产记录详情ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1822" y="-601" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-137" value="&lt;span style=&quot;font-size:12.0pt;line-height:125%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;原材料名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-137" value="&lt;span style=&quot;font-size: 20px; line-height: 125%;&quot;&gt;原材料名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1654" y="-277" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-138" value="&lt;span style=&quot;font-size:12.0pt;line-height:125%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;实际生产得到的数量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-138" value="&lt;span style=&quot;font-size: 20px; line-height: 125%;&quot;&gt;实际生产得到的数量&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1812" y="-277" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-139" value="计划生产原材料数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-139" value="计划生产原材料数量" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1940" y="-277" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-140" value="产品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-140" value="产品ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-477" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-141" value="批次号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-141" value="批次号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1972" y="-586" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-142" value="&lt;span style=&quot;font-size:12.0pt;line-height:125%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;标准产品出品率&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-142" value="&lt;span style=&quot;font-size: 20px; line-height: 125%;&quot;&gt;标准产品出品率&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1620" y="-397" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-143" value="原材料ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="-367" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-144" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-142" target="RmmYsCfLyDejot8RSqlB-133">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-144" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-142" target="RmmYsCfLyDejot8RSqlB-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1802" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-145" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-137" target="RmmYsCfLyDejot8RSqlB-133">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-145" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-137" target="RmmYsCfLyDejot8RSqlB-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-146" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-138">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-146" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-138">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-147" value="" style="endArrow=none;html=1;rounded=0;entryX=0.333;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.811;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-139">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-147" value="" style="endArrow=none;html=1;rounded=0;entryX=0.333;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.811;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-139">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-148" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-143">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-148" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-143">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-149" value="" style="endArrow=none;html=1;rounded=0;exitX=0.022;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-140">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-149" value="" style="endArrow=none;html=1;rounded=0;exitX=0.022;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-140">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1932" y="-407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-150" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-135" target="RmmYsCfLyDejot8RSqlB-133">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-150" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-135" target="RmmYsCfLyDejot8RSqlB-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-151" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-134">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-151" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-134">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-152" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-136" target="RmmYsCfLyDejot8RSqlB-133">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-152" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-136" target="RmmYsCfLyDejot8RSqlB-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-153" value="" style="endArrow=none;html=1;rounded=0;entryX=0.255;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-141">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-153" value="" style="endArrow=none;html=1;rounded=0;entryX=0.255;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-133" target="RmmYsCfLyDejot8RSqlB-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1762" y="-327" as="sourcePoint" />
             <mxPoint x="1812" y="-377" as="targetPoint" />
