@@ -263,10 +263,10 @@
           <mxGeometry x="560" y="-470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-64" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-270" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="-270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-65" value="最小库存量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-190" width="120" height="80" as="geometry" />
+          <mxGeometry x="414" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-58" target="RmmYsCfLyDejot8RSqlB-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -280,7 +280,7 @@
             <mxPoint x="590" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-68" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-58">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-68" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.064;entryY=0.284;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-58" target="RmmYsCfLyDejot8RSqlB-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="-240" as="sourcePoint" />
             <mxPoint x="680" y="-250" as="targetPoint" />
