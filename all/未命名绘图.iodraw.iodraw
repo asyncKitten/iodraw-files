@@ -8,10 +8,10 @@
           <mxGeometry x="210" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-3" value="产品类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-4" value="规格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-5" value="主键产品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="130" width="120" height="80" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="610" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-10" value="图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="414" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-11" value="排序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="505" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-12" value="逻辑删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="500" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-3" target="RmmYsCfLyDejot8RSqlB-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
