@@ -113,70 +113,73 @@
           <mxGeometry x="223.5" y="-979" width="126.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-27" value="门店采购订单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-28" value="采购批次" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-610" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="-1040" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-29" value="采购总金额" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-480" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="-910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-30" value="付款时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-360" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="-790" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-31" value="主键门店采购订单ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-630" width="120" height="80" as="geometry" />
+          <mxGeometry x="790" y="-1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-32" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-624" width="120" height="80" as="geometry" />
+          <mxGeometry x="960" y="-1054" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-33" value="是否收款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-480" width="120" height="80" as="geometry" />
+          <mxGeometry x="980" y="-910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-34" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-350" width="120" height="80" as="geometry" />
+          <mxGeometry x="950" y="-780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.202;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-28" target="RmmYsCfLyDejot8RSqlB-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="-490" as="sourcePoint" />
-            <mxPoint x="350" y="-530" as="targetPoint" />
+            <mxPoint x="730" y="-920" as="sourcePoint" />
+            <mxPoint x="770" y="-960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1.01;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.383;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-30" target="RmmYsCfLyDejot8RSqlB-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-480" as="sourcePoint" />
-            <mxPoint x="350" y="-530" as="targetPoint" />
+            <mxPoint x="720" y="-910" as="sourcePoint" />
+            <mxPoint x="770" y="-960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-38" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.004;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.993;exitY=0.424;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-29" target="RmmYsCfLyDejot8RSqlB-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-480" as="sourcePoint" />
-            <mxPoint x="350" y="-530" as="targetPoint" />
+            <mxPoint x="720" y="-910" as="sourcePoint" />
+            <mxPoint x="770" y="-960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.352;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.953;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-27" target="RmmYsCfLyDejot8RSqlB-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-480" as="sourcePoint" />
-            <mxPoint x="350" y="-530" as="targetPoint" />
+            <mxPoint x="720" y="-910" as="sourcePoint" />
+            <mxPoint x="770" y="-960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-27" target="RmmYsCfLyDejot8RSqlB-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-480" as="sourcePoint" />
-            <mxPoint x="350" y="-530" as="targetPoint" />
+            <mxPoint x="720" y="-910" as="sourcePoint" />
+            <mxPoint x="770" y="-960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.033;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-27" target="RmmYsCfLyDejot8RSqlB-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-480" as="sourcePoint" />
-            <mxPoint x="350" y="-530" as="targetPoint" />
+            <mxPoint x="720" y="-910" as="sourcePoint" />
+            <mxPoint x="770" y="-960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.439;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-27" target="RmmYsCfLyDejot8RSqlB-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-480" as="sourcePoint" />
-            <mxPoint x="350" y="-530" as="targetPoint" />
+            <mxPoint x="720" y="-910" as="sourcePoint" />
+            <mxPoint x="770" y="-960" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RmmYsCfLyDejot8RSqlB-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="-430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
