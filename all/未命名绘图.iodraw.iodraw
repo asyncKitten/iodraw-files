@@ -381,13 +381,13 @@
           <mxGeometry x="400" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-89" value="主键采购需求ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-450" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="-430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-91" value="采购计划ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-260" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="-270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-92" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-450" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="-440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-93" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="-250" width="120" height="80" as="geometry" />
@@ -404,7 +404,7 @@
             <mxPoint x="540" y="-270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-96" value="" style="endArrow=none;html=1;rounded=0;entryX=0.304;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-88" target="RmmYsCfLyDejot8RSqlB-92">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-96" value="" style="endArrow=none;html=1;rounded=0;entryX=0.054;entryY=0.707;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-88" target="RmmYsCfLyDejot8RSqlB-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="-220" as="sourcePoint" />
             <mxPoint x="540" y="-270" as="targetPoint" />
