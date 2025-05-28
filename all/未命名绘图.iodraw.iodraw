@@ -125,16 +125,16 @@
           <mxGeometry x="190" y="-360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-31" value="主键门店采购订单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-650" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="-630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-32" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-650" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="-624" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-33" value="是否收款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-490" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="-480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-34" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-360" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="-360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.202;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RmmYsCfLyDejot8RSqlB-28" target="RmmYsCfLyDejot8RSqlB-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
