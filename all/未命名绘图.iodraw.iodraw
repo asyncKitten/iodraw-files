@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-1" value="产品基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="353.5" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
