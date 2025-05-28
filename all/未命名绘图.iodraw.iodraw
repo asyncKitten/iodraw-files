@@ -425,7 +425,7 @@
         <mxCell id="RmmYsCfLyDejot8RSqlB-100" value="预采购计划ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="-330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-101" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-101" value="原材料ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-102" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
