@@ -419,7 +419,7 @@
         <mxCell id="RmmYsCfLyDejot8RSqlB-98" value="采购需求详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-99" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-99" value="主键采购需求详情ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="-450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-100" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
