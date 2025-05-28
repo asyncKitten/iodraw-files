@@ -567,13 +567,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-133" value="生产记录详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="-450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1830" y="-401" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-134" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="-569" width="120" height="80" as="geometry" />
+          <mxGeometry x="1638" y="-584" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-135" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1628" y="-479" width="120" height="80" as="geometry" />
+          <mxGeometry x="1638" y="-479" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-136" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-569" width="120" height="80" as="geometry" />
@@ -585,16 +585,19 @@
           <mxGeometry x="1810" y="-270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-139" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="-290" width="120" height="80" as="geometry" />
+          <mxGeometry x="1990" y="-270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-140" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="-411" width="120" height="80" as="geometry" />
+          <mxGeometry x="2000" y="-479" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-141" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-584" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-142" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1638" y="-380" width="120" height="80" as="geometry" />
+          <mxGeometry x="1628" y="-380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RmmYsCfLyDejot8RSqlB-143" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="-361" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
