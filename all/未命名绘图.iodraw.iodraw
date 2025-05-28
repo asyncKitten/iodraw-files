@@ -587,10 +587,10 @@
         <mxCell id="RmmYsCfLyDejot8RSqlB-139" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="-251" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-140" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-140" value="产品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2008" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-141" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-141" value="批次号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="-569" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-142" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
