@@ -488,7 +488,7 @@
         <mxCell id="RmmYsCfLyDejot8RSqlB-114" value="批次号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="-470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-115" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-115" value="产品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-116" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -506,7 +506,7 @@
         <mxCell id="RmmYsCfLyDejot8RSqlB-121" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="-220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-122" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-122" value="标准生产数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-123" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
