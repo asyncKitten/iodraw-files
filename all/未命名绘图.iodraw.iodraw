@@ -584,7 +584,7 @@
         <mxCell id="RmmYsCfLyDejot8RSqlB-138" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="-251" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RmmYsCfLyDejot8RSqlB-139" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmmYsCfLyDejot8RSqlB-139" value="计划生产原材料数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="-251" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RmmYsCfLyDejot8RSqlB-140" value="产品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
