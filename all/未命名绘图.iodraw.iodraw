@@ -105,10 +105,13 @@
         <mxCell id="39VtAqkK3XcO1ko9shXV-30" value="流程&lt;div&gt;Workflow&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39VtAqkK3XcO1ko9shXV-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="39VtAqkK3XcO1ko9shXV-31" value="物料仓储线边仓流程&lt;div&gt;Material WIP Workflow&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="39VtAqkK3XcO1ko9shXV-32" target="39VtAqkK3XcO1ko9shXV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39VtAqkK3XcO1ko9shXV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="39VtAqkK3XcO1ko9shXV-32" target="39VtAqkK3XcO1ko9shXV-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-32" value="工序&lt;div&gt;Spec&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
