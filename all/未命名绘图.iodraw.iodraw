@@ -38,6 +38,9 @@
         <mxCell id="39VtAqkK3XcO1ko9shXV-9" value="仓库设定&lt;div&gt;Inventory Spec&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="39VtAqkK3XcO1ko9shXV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="39VtAqkK3XcO1ko9shXV-10" target="39VtAqkK3XcO1ko9shXV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-10" value="物料&lt;div&gt;Material Part&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
