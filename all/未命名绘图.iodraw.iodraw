@@ -65,9 +65,9 @@
           <mxGeometry x="790" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-20" value="数据采集项目集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="601" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39VtAqkK3XcO1ko9shXV-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="39VtAqkK3XcO1ko9shXV-21" value="工具计划&lt;div&gt;Tool Plan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
