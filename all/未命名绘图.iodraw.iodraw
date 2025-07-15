@@ -114,7 +114,7 @@
         <mxCell id="39VtAqkK3XcO1ko9shXV-33" value="工艺&lt;div&gt;Operation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39VtAqkK3XcO1ko9shXV-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="39VtAqkK3XcO1ko9shXV-34" value="课别&lt;div&gt;Operation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-35" value="设备群组&lt;div&gt;Equipment Group&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
