@@ -76,7 +76,7 @@
         <mxCell id="39VtAqkK3XcO1ko9shXV-23" value="数据采集项目&lt;div&gt;WIP Data Name&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39VtAqkK3XcO1ko9shXV-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="39VtAqkK3XcO1ko9shXV-24" value="工具&lt;div&gt;Tools&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
