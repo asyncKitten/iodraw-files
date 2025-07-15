@@ -51,10 +51,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-15" value="涨缩方式&lt;div&gt;Scale Type Des&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39VtAqkK3XcO1ko9shXV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="39VtAqkK3XcO1ko9shXV-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-16" value="分割方式&lt;div&gt;Scale Block Type&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
