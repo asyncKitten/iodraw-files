@@ -47,10 +47,13 @@
         <mxCell id="39VtAqkK3XcO1ko9shXV-11" value="物料类型&lt;div&gt;Material Type&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="39VtAqkK3XcO1ko9shXV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="39VtAqkK3XcO1ko9shXV-15" target="39VtAqkK3XcO1ko9shXV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-15" value="涨缩方式&lt;div&gt;Scale Type Des&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39VtAqkK3XcO1ko9shXV-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="39VtAqkK3XcO1ko9shXV-16" value="分割方式&lt;div&gt;Scale Block Type&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
