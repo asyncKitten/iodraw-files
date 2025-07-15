@@ -70,6 +70,11 @@
         <mxCell id="39VtAqkK3XcO1ko9shXV-21" value="工具计划&lt;div&gt;Tool Plan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="39VtAqkK3XcO1ko9shXV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="39VtAqkK3XcO1ko9shXV-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="39VtAqkK3XcO1ko9shXV-22" value="配方&lt;div&gt;Recipe&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="400" width="120" height="60" as="geometry" />
         </mxCell>
